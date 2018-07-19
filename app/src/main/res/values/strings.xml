@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GST Edge Task</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_sign_in">Login</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="username_hint">Username</string>
+    <string name="sign_up_dob_hint">DOB</string>
+    <string name="sign_up_phone">Phone Number</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_confirm_password_hint">Confirm Password</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="sign_in_button_text">Login</string>
+    <string name="text_already_member">Already a member?</string>
+
+    <string name="dashboard_ifsc_hint">IFSC</string>
+    <string name="dashboard_ifsc_submit">Submit</string>
+    <string name="title_activity_ifscdetails">IFSC Details</string>
+
+    <string name="data_branch">Branch:</string>
+    <string name="data_address">Address:</string>
+    <string name="data_contact">Contact:</string>
+    <string name="data_city">City:</string>
+    <string name="data_district">District:</string>
+    <string name="data_state">State:</string>
+    <string name="data_bank">Bank:</string>
+    <string name="data_bank_code">Bank Code:</string>
+    <string name="data_ifsc">IFSC:</string>
+
+</resources>
